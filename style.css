@@ -18,12 +18,12 @@ button {
     font-size: 30px;
 }
 
-.passo {
+.passo{
     display:none;
 }
 
-.passo.ativo {
-    display: block;
+.passo.ativo{
+    display:block;
 }
 
 main{
